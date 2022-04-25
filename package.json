@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
     "next": "12.1.5",
+    "puppeteer-core": "^13.6.0",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
+    "aws-sdk": "^2.1120.0",
     "eslint": "8.14.0",
-    "eslint-config-next": "12.1.5"
+    "eslint-config-next": "12.1.5",
+    "puppeteer": "^13.6.0"
   }
 }
